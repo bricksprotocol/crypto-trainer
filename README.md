@@ -40,7 +40,7 @@ Want a taste of Crypto Trainer? 😋
  
 Download [Crypto Trainer](https://play.google.com/store/apps/details?id=com.finstreet.crypto_trainer) for free at Google Play Store. 🔽
 
-_We aren't on App Store yet, but we are working on it._ 😭 _Stay tuned!_ 😉
+_We aren't on Apple Store yet, but we are working on it._ 😭 _Stay tuned!_ 😉
 
 ## Learn about trading 📘
 
@@ -63,4 +63,4 @@ Happy Trading! 🥳
 ## Contributing 🤝
 We apologise but you can't contribute publicly to this project 😭. Keep an eye out though! Who knows, we might open an opportunity later on! 🤩
 
-<div style="text-align: center;"><h3 style = "font-weight: bold;"> Crafted with 💙 by QuadB</h3></div>
+<!-- <div style="text-align: center;"><h3 style = "font-weight: bold;"> Crafted with 💙 by QuadB</h3></div> -->
